@@ -7,14 +7,10 @@ Antes que nada
 
 ## Preview
 
-![alt text][prev1]
-[logo]: https://github.com/imTheJano/evaluaciondocente/img/git/prev1.jpg "Prev1"
+![Preview1](https://github.com/ImTheJano/evaluaciondocente.com/blob/master/img/git/prev1.png)
 
-![alt text][prev2]
-[logo]: https://github.com/imTheJano/evaluaciondocente/img/git/prev2.jpg "Prev2"
+![Preview2](https://github.com/ImTheJano/evaluaciondocente.com/blob/master/img/git/prev2.png)
 
-![alt text][prev3]
-[logo]: https://github.com/imTheJano/evaluaciondocente/img/git/prev3.jpg "Prev3"
+![Preview3](https://github.com/ImTheJano/evaluaciondocente.com/blob/master/img/git/prev3.png)
 
-![alt text][prev4]
-[logo]: https://github.com/imTheJano/evaluaciondocente/img/git/prev4.jpg "Prev4"
+![Preview4](https://github.com/ImTheJano/evaluaciondocente.com/blob/master/img/git/prev4.png)
